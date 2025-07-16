@@ -7,7 +7,7 @@ This project is perfect for:
 - 💼 Preparing for interviews in retail, e-commerce, or product analytics
 
 
-🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
+🔗 *Link to Video:* 
 
 ## 📌 Project Overview
 
