@@ -158,9 +158,6 @@ If you enjoyed this project and want to keep learning and growing as a data anal
 📺 Instagram: [data.drool](https://www.instagram.com/data.drool/)
 - Quick SQL tips, data memes, and behind-the-scenes content
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
 
 ## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
 
