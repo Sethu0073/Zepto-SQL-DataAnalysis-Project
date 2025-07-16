@@ -7,8 +7,6 @@ This project is perfect for:
 - 💼 Preparing for interviews in retail, e-commerce, or product analytics
 
 
-🔗 *Link to Video:* 
-
 ## 📌 Project Overview
 
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
