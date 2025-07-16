@@ -149,9 +149,6 @@ MIT — feel free to fork, star, and use in your portfolio.
 Hey, I’m Amlan Mohanty — a Data Analyst & Content Creator.
 I break down complex data topics into simple, practical content that actually helps you land a job.
 
- ### 🚀 Stay Connected & Join the Data Drool Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
 
 
 📺 Instagram: [data.drool](https://www.instagram.com/data.drool/)
